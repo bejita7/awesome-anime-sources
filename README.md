@@ -55,19 +55,13 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animepahe.com](https://animepahe.com/)
 * [anime-planet.com](https://www.anime-planet.com/)
 * [animixplay.to](https://animixplay.to/)
-* [animeshow.tv](https://animeshow.tv)
 * [animetake.tv](https://animetake.tv)
-* [anitube.site](https://www.anitube.site/)
 * [animevibe.ru](https://animevibe.ru/)
-* [chihiro-subs.com](https://chihiro-subs.com/)
 * [crunchyroll.com](https://www.crunchyroll.com/)
-* [animedubbed.me](https://animedubbed.me/)
-* [justdubs.org](https://justdubs.org)
 * [kawaiifu.com](https://kawaiifu.com)
 * [kaa.si](https://kaa.si)
 * [kimcartoon.to](https://kimcartoon.to)
 * [proxer.me](https://proxer.me) - Contains German Subs
-* [simpleyaweeb.com](https://simplyaweeb.com/series/)
 * [otaku-streamers.com](https://otaku-streamers.com/)
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
 * [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
@@ -97,7 +91,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [erai-raws.info](https://erai-raws.info)
 * [darklegends60mb.org](https://www.darklegends60mb.org/)
 * [hi10anime.com](https://hi10anime.com/)
-* [nibl.co.uk](https://nibl.co.uk/bots.php)(irc)
+* [nibl.co.uk](https://nibl.co.uk/bots)(irc)
 
 #### Torrents
 
@@ -106,11 +100,9 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anidex.info](https://anidex.info/)
 * [anirena.com](https://www.anirena.com/)
 * [anisearch.ru](https://anisearch.ru/)
-* [horriblesubs.info](https://horriblesubs.info/) - Best anime torrents.
 * [minglong.org](https://tracker.minglong.org:8080/)
 * [tokyotosho.info](https://www.tokyotosho.info/)
 * [nyaa.si](https://nyaa.si/)
-* [nyaapantsu](https://nyaa.pantsu.cat/)
 * [animelayer](http://animelayer.ru/) - Site is in russian
 * [sukebeinyaa](https://sukebei.nyaa.si/) For Hentai
 * [shanaproject](https://shanaproject.com)
@@ -195,10 +187,8 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 ### Online Reading
 * [1stkissmanga](https://1stkissmanga.com/)
 * [Chibi manga reader](https://www.cmreader.info/)
-* [Fallen Angels](https://manga.fascans.com/)
 * [Mangadex](https://mangadex.org/)
 * [bato.to](https://bato.to/)
-* [bulumanga.com](https://bulumanga.com/)
 * [fanfox.net](https://fanfox.net/)
 * [mangakomi](https://mangakomi.com/)
 * [mangaplus](https://mangaplus.shueisha.co.jp/updates) Free, Official Source for Shounen Jump Series
@@ -207,24 +197,19 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [mangahere.cc](https://mangahere.cc/)
 * [mangakakalot.com](https://mangakakalot.com/)
 * [manganelo.com](https://manganelo.com/)
-* [mangapanda.com](https://www.mangapanda.com/)
 * [mangapark.net](https://mangapark.net/)
-* [mangareader.net](https://www.mangareader.net/)
 * [mangareader.to](https://mangareader.to/)
-* [mangasee123.com](https://mangasee123.com/)
 * [ReadManga Today](https://www.readmng.com/)
-* [Mangazuki](https://mangazuki.me/)
 * [readcomiconline](https://readcomiconline.to/)
 * [readm](https://readm.org/)
 * [readmanhua](https://readmanhua.net/)
 * [weebtoons](https://www.webtoons.com/en/)
-* [readmanhua](https://readmanhua.net/)
 * [WuxiaWorld](https://wuxiaworld.site/)
 * [MangaLib.me](https://mangalib.me/) - Russian
 * [desu.me](https://desu.me/) - Russian
 * [ReadManga](https://readmanga.live/) - Russian
 * [ReManga](https://remanga.org/) - Russian
-* [MangaSco](https://mangasco.com/)
+* [ManhwaSco](https://manhwasco.net/)
 
 
 ### Apps
